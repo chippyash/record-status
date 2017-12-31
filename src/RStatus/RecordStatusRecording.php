@@ -34,13 +34,12 @@ trait RecordStatusRecording
      * Set the record status
      *
      * @param RecordStatus $status
-     * @param array|null   $key array of record key parts
      *
      * @return $this
      *
      * @throws RecordStatusException
      */
-    public function setStatus(RecordStatus $status, array $key = null)
+    public function setStatus(RecordStatus $status)
     {
         if (!$this->recordStatus->canChange()) {
             throw new RecordStatusException('Cannot change status on a defunct record');
