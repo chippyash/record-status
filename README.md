@@ -4,9 +4,9 @@
 
 ![PHP 5.6](https://img.shields.io/badge/PHP-5.6-blue.svg)
 ![PHP 7](https://img.shields.io/badge/PHP-7-blue.svg)
-[![Build Status](https://travis-ci.org/chippyash/identity.svg)](https://travis-ci.org/chippyash/Identity)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/test_coverage)](https://codeclimate.com/github/chippyash/identity/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/fc8854ae418eacd98d3d/maintainability)](https://codeclimate.com/github/chippyash/identity/maintainability)
+[![Build Status](https://travis-ci.org/chippyash/record-status.svg)](https://travis-ci.org/chippyash/record-status)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/aa01ddd5d0f3ccd0e137/test_coverage)](https://codeclimate.com/github/chippyash/record-status/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/aa01ddd5d0f3ccd0e137/maintainability)](https://codeclimate.com/github/chippyash/record-status/maintainability)
 
 See the [Test Contract](https://github.com/chippyash/record-status/blob/master/docs/Test-Contract.md)
 
