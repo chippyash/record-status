@@ -192,3 +192,5 @@ license, which does not allow unrestricted inclusion of this code in commercial 
 V1.0.0 Original release
 
 V1.0.1 build integration
+
+V1.0.2 typos
